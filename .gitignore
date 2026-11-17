@@ -1,3 +1,4 @@
 .idea/git add .gitignore
       git commit -m "Remove IntelliJ configuration files"
       git push origin main
+.idea/
